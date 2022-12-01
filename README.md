@@ -21,7 +21,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - 👀 I’m interested in developing innovative projects in **JavaScript, React-JS, C#, Java, Python**.
 - 🌱 I’m currently learning **React-JS**.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve working on my own projects and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://online-portfolio-aparna.netlify.app/#contact)
 
 - 📄 Know about my experiences: [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=Website&logoColor=white)](https://online-portfolio-aparna.netlify.app/)
