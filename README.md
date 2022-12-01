@@ -65,6 +65,8 @@ https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AparnaChougale&theme=dark&background=000000)]()
 
+<!-- ![Aparna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AparnaChougale&show_icons=true&theme=highcontrast) -->
+
 
 
 
